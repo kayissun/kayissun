@@ -1,45 +1,60 @@
-# 📚 Repository Pembelajaran Web Dasar
+<h1 align="center">Hi 👋, I'm Kayis</h1>
+<h3 align="center">Frontend Developer in Progress 🚀</h3>
 
-Selamat datang di repository ini!  
-Repo ini dibuat sebagai dokumentasi proses belajar HTML dasar, terdiri dari materi pertemuan mingguan, tugas, UTS, dan UAS.
-
----
-
-## ✨ Daftar Materi
-
-| Pertemuan | Topik                 | Link                                     |
-|-----------|-----------------------|------------------------------------------|
-| 1 part 1  | Pengenalan HTML       | [Lihat](./Pertemuan1/index.html)         |
-| 1 part 2  | Pengenalan HTML       | [Lihat](./Pertemuan1/index1.html)        |
-| 1 part 3  | Pengenalan HTML       | [Lihat](./Pertemuan1/index2.html)        |
-| 2         | Tag Lanjutan HTML     | [Lihat](./Pertemuan2/index.html)         |
-| 3         | Membuat Table & CSS   | [Lihat](./Pertemuan3/index.html)         |
-| 4         | Lanjutan table &      |                                          |
-|           | pengenalan form       | [Lihat](./Pertemuan4/login.html)         |
-| 5         | Card                  | [Lihat](./Pertemuan5/index.html)         |
-| 6 part 1  | javascript inline     | [Lihat](./Pertemuan6/Index1.html)        |
-| 6 part 2  | Javascript eksternal  | [Lihat](./Pertemuan6/Index2.html)        |
-| 7         | Web sederhana         | [Lihat](./Pertemuan7/login.html)         |
-| 8         | Pengenalan Bootstrap  | [Lihat](./Pertemuan8/index.html)         |
-| 9         | Landing page sederhana| [Lihat](./Pertemuan9/index.html)         |
-| UTS       | Ujian Tengah Semester | [Lihat](./UTS/Login.html)                |
-| UAS       | Ujian Akhir Semester  | [Lihat](./UAS/landing.html)              |
-
-> 🔗 Versi web: [https://kayissun.github.io/Pembelajaran](https://kayissun.github.io/Pembelajaran)
+<p align="center">
+  💻 Mahasiswa Teknik Informatika <br>
+  🎯 Fokus: Frontend Developer <br>
+  🌱 Currently learning: Bootstrap & JavaScript
+</p>
 
 ---
 
-## 🛠 Teknologi yang Digunakan
-
-- HTML5
-- CSS3 *(pada beberapa pertemuan)*
-- Bootstrap v4.6 *(pada beberapa pertemuan)*
+## 🧑‍💻 About Me
+- 🔥 Suka ngoding & bikin tampilan web
+- 🎨 Fokus di UI/UX
+- ⚡ Motto: "Simple but clean"
 
 ---
 
-## 🙋‍♂️ Tentang Saya
+## 🎴 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php" />
+</p>
 
-Saya sedang belajar dasar-dasar web development sebagai bagian dari mata kuliah/desain web.  
-Silakan gunakan materi ini untuk referensi belajar atau pengembangan pribadi.
+---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kayissun&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kayissun&theme=tokyonight" />
+</p>
 
+---
+
+## 📈 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayissun&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🎵 Now Playing (Spotify)
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" />
+</p>
+
+---
+
+## 🔥 Contribution Snake (animasi)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+</p>
