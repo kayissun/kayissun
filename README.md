@@ -2,9 +2,9 @@
 <h3 align="center">Frontend Developer in Progress 🚀</h3>
 
 <p align="center">
-  💻 Mahasiswa Teknik Informatika <br>
-  🎯 Fokus: Frontend Developer <br>
-  🌱 Currently learning: Bootstrap & JavaScript
+💻 Mahasiswa Teknik Informatika <br>
+🎯 Fokus: Frontend Development <br>
+🌱 Currently learning: Bootstrap & JavaScript
 </p>
 
 ---
@@ -12,7 +12,7 @@
 ## 🧑‍💻 About Me
 - 🔥 Suka ngoding & bikin tampilan web
 - 🎨 Fokus di UI/UX
-- ⚡ Motto: "Simple but clean"
+- ⚡ Motto: Simple but clean
 
 ---
 
@@ -27,7 +27,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kayissun&show_icons=true&theme=tokyonight" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kayissun&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=kayissun&theme=tokyonight" />
 </p>
 
 ---
@@ -39,22 +39,21 @@
 
 ---
 
-## 🎵 Now Playing (Spotify)
+## 🎵 Now Playing
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=ISI_SPOTIFY_ID_KAMU&cover_image=true&theme=novatorem" />
 </p>
 
 ---
 
-## 🔥 Contribution Snake (animasi)
+## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 👀 Visitor Counter
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <img src="https://komarev.com/ghpvc/?username=kayissun&label=Profile%20views&color=blue&style=flat" />
 </p>
